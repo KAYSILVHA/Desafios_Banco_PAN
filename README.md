@@ -99,7 +99,7 @@ O primeiro valor de saída é a quantidade de valores positivos. A próxima linh
 </p>
 
 <p>
-<strong>RESPOSTA: <a href="../Dominando_Algoritmos_Basicos/ImprimindoPositivosEMedia.java">CLIQUE AQUI!</a></strong>
+<strong>RESPOSTA: <a href="./Dominando_Algoritmos_Basicos/src/ImprimindoPositivosEMedia.java">CLIQUE AQUI!</a></strong>
 </p>
 
 <hr>
@@ -133,7 +133,7 @@ Na saída será impresso o valor que representa a soma dos termos.
 </p>
 
 <p>
-<strong>RESPOSTA: <a href="../Dominando_Algoritmos_Basicos/SomaHcomN.java">CLIQUE AQUI!</a></strong>
+<strong>RESPOSTA: <a href="./Dominando_Algoritmos_Basicos/src/SomaHcomN.java">CLIQUE AQUI!</a></strong>
 </p>
 
 <hr>
@@ -165,7 +165,7 @@ Para cada valor lido, imprima o texto correspondente.
 </p>
 
 <p>
-<strong>RESPOSTA: <a href="../Dominando_Algoritmos_Basicos/Dragao.java">CLIQUE AQUI!</a></strong>
+<strong>RESPOSTA: <a href="./Dominando_Algoritmos_Basicos/src/Dragao.java">CLIQUE AQUI!</a></strong>
 </p>
 
 <hr>
@@ -199,5 +199,5 @@ Os valores devem ser mostrados na mesma linha, separados por um espaço em branc
 </p>
 
 <p>
-<strong>RESPOSTA: <a href="../Dominando_Algoritmos_Basicos/FibonacciFacil.java">CLIQUE AQUI!</a></strong>
+<strong>RESPOSTA: <a href="./Dominando_Algoritmos_Basicos/src/FibonacciFacil.java">CLIQUE AQUI!</a></strong>
 </p>
