@@ -67,7 +67,7 @@ Como saída, teremos o valor final do preço de um carro novo.
 </p>
 
 <p>
-<strong>RESPOSTA: <a href="../Dominando_Algoritmos_Basicos/src/FabricaDeCarros.java">CLIQUE AQUI!</a></strong>
+<strong>RESPOSTA: <a href="./Dominando_Algoritmos_Basicos/src/FabricaDeCarros.java">CLIQUE AQUI!</a></strong>
 </p>
 
 
